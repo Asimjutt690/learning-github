@@ -1,0 +1,23 @@
+@media only screen and (max-width:600px) {
+    body{
+        background-color: rgb(243, 243, 192);
+    }
+    *{
+        font-family: Calibri;
+    } 
+    
+    h1{
+        font-size: 34px;
+    }
+    div{
+       text-align: end;
+    }
+    li{
+      display: inline-block;
+      min-width: 100px;
+      margin-right: 80px;  
+      
+      
+    } 
+}
+
