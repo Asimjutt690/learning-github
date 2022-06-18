@@ -1,8 +1,11 @@
 @media only screen and (max-width:600px) {
     body{
         background-color: rgb(243, 243, 192);
+    }  li{
+        display: inline-block;
+       margin-right: 10px;  
     }
-    *{
+       *{
         font-family: Calibri;
     } 
     
@@ -12,12 +15,12 @@
     div{
        text-align: end;
     }
-    li{
-      display: inline-block;
-      min-width: 100px;
-      margin-right: 80px;  
-      
-      
-    } 
+  
+ 
+        
+       
+
+
 }
+   
 
